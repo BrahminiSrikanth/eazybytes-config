@@ -1,0 +1,13 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related to local APIs"
+  contactDetails:
+    name: "Brahmini Basina"
+    email: "brahminisrikanth@gmail.com"
+  onCallSupport:
+    -(555)555-1234
+    -(555)523-145
+
