@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related to local APIs"
+  message: "Welcome to EazyBank accounts related to default local APIs"
   contactDetails:
     name: "Brahmini Basina"
     email: "brahminisrikanth@gmail.com"
